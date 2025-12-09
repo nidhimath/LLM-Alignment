@@ -7,7 +7,7 @@ This project benchmarks and improves **anti-jailbreak defenses for open-weight l
 We evaluate three modular defense pipelines:
 
 1. Proposal A — DPO + Activation Steering
-2. Pipeline B — SelfDefend + Activation Steering**
+2. Pipeline B — SelfDefend + Activation Steering
 3. Method C — Constitutional AI (CAI) + Targeted Model Editing (TME)
 
 
